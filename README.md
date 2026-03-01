@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Aashish Gupta
 
-<!--
-**AashishGupta2007/AashishGupta2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE Student at NSUT  
+💻 Aspiring Software Developer  
+🐍 Python | Data Structures & Algorithms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Currently learning Data Structures & Algorithms
+- Building real-world software projects using Python
+- Interested in Backend Development & Automation
+- Exploring Machine Learning concepts
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python  
+- **Libraries:** NumPy, Pandas, Matplotlib, scikit-learn, OpenCV  
+- **Tools:** Git, GitHub  
+- **Concepts:** OOP, File Handling, Problem Solving  
+
+---
+
+## 📂 Projects
+🔹 Stock Price Prediction Model  
+🔹 Python CLI Application  
+🔹 Mini Web Application  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/aashish-gupta-a47a10365/
